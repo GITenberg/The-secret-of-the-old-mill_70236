@@ -1,0 +1,38 @@
+_repo: The-secret-of-the-old-mill_70236
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    alias: Rogers, W. S.
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+    wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+creator:
+  author:
+    agent_name: Dixon, Franklin W.
+    gutenberg_agent_id: '55530'
+    url: http://www.gutenberg.org/2009/agents/55530
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Franklin_W._Dixon
+    - https://www.gutenberg.org/ebooks/author/1626
+description: ''
+gutenberg_issued: '2023-03-08'
+identifiers:
+  gutenberg: '70236'
+language: en
+pgterms:marc904: https://archive.org/details/secretofoldmill0000dixo
+pgterms:marc905: 20221227060401dixon
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bApplewood Books, $c1927, reprint 1991.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The secret of the old mill
+url: http://www.gutenberg.org/ebooks/70236
